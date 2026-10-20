@@ -1,5 +1,5 @@
 // ============================================================
-// THUNDERRIFT STUDIO - All rights reserved.
+// CORVUS STUDIO - All rights reserved.
 // ============================================================
 
 document.addEventListener('DOMContentLoaded', () => {
